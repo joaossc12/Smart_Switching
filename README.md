@@ -88,5 +88,12 @@ Este projeto tem como objetivo a criação de um sistema embarcado capaz de **mo
 
 ## 📁 Estrutura
 
-SmartSwitching/ ├── main.c ├── lib/ │ ├── ssd1306.h │ ├── font.h │ └── matrix.h ├── Smart_Switching.pio.h ├── README.md
+SmartSwitching/ 
+├── main.c 
+├── lib/ │ 
+  ├── ssd1306.h │ 
+  ├── font.h │
+  └── matrix.h 
+├── Smart_Switching.pio.h 
+├── README.md
 
